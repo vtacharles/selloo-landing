@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Selloo</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 600px; margin: 50px auto; padding: 20px; line-height: 1.5; }
+    h1 { text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur Selloo</h1>
+  <p>Marketplace de vêtements de seconde main entre particuliers.</p>
+  <p><strong>Société :</strong> Selloo (SAS)</p>
+  <p><strong>RCS :</strong> Évry 943 238 774</p>
+  <p><strong>Contact :</strong> hello@selloo.vn</p>
+  <p>Lancement officiel prochainement.</p>
+</body>
+</html>
